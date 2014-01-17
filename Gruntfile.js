@@ -1,7 +1,5 @@
 /*global module:false*/
 module.exports = function(grunt) {
-  var indices = require('./build/indices');
-
   grunt.initConfig({
     'gh-pages': {
       options: {
@@ -14,6 +12,6 @@ module.exports = function(grunt) {
     }
   });
 
-  grunt.loadTasks('build');
+  grunt.loadTasks('build-indices');
   grunt.loadNpmTasks('grunt-gh-pages');
 };

@@ -27,7 +27,7 @@ These files were compiled using [`heifer`](https://github.com/potch/heifer):
 1. Build the directory indices (grunt task coming soon):
 
     ```
-    node build/indices.js
+    node build-indices/indices.js
     ```
 
 2. Push pages:
