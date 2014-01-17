@@ -17,7 +17,7 @@ These files were compiled using [`heifer`](https://github.com/potch/heifer):
 
     for url (https://marketplace.firefox.com https://marketplace.allizom.org https://marketplace-dev.allizom.org) { \
         domain=$url:s/https:\/\///:s/http:\/\///;
-        fn='build/'$domain'/'$(date +%Y.%m.%d-%H.%M.%S);
+        fn='history/'$domain'/'$(date +%Y.%m.%d-%H.%M.%S);
         heifer --url $url --export-html $fn'.html' --export-json $fn'.json';
     }
 
