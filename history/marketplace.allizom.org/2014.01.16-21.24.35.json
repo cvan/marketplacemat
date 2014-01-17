@@ -1,0 +1,233 @@
+{
+  "total": {
+    "js": 373728,
+    "css": 104838,
+    "image": 100335,
+    "cssimage": 34918,
+    "favicon": 0,
+    "doc": 0,
+    "total": 613819
+  },
+  "resources": [
+    {
+      "type": "js",
+      "size": 290020,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/js/include.js?b=1389902433700"
+    },
+    {
+      "type": "css",
+      "size": 86983,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/css/include.css?b=1389902433700"
+    },
+    {
+      "type": "js",
+      "size": 39992,
+      "url": "https://ssl.google-analytics.com/ga.js"
+    },
+    {
+      "type": "cssimage",
+      "size": 25483,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/img/pretty/marketplace_logo.png?1389902426592"
+    },
+    {
+      "type": "js",
+      "size": 22666,
+      "url": "https://www.google-analytics.com/analytics.js"
+    },
+    {
+      "type": "css",
+      "size": 17855,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/css/splash.styl.css?b=1389902433700"
+    },
+    {
+      "type": "js",
+      "size": 17284,
+      "url": "https://login.persona.org/include.js"
+    },
+    {
+      "type": "image",
+      "size": 13092,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/369/369489-64.png?modified=1368132908"
+    },
+    {
+      "type": "image",
+      "size": 10332,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/379/379491-64.png?modified=1383062472"
+    },
+    {
+      "type": "image",
+      "size": 9146,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/372/372635-64.png?modified=1383055411"
+    },
+    {
+      "type": "image",
+      "size": 7204,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/372/372767-64.png?modified=1368132908"
+    },
+    {
+      "type": "image",
+      "size": 6824,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/377/377829-64.png?modified=1383050751"
+    },
+    {
+      "type": "image",
+      "size": 6494,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/371/371233-64.png?modified=1381244363"
+    },
+    {
+      "type": "image",
+      "size": 6205,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/374/374841-64.png?modified=1384870264"
+    },
+    {
+      "type": "image",
+      "size": 6048,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/364/364927-64.png?modified=1384973569"
+    },
+    {
+      "type": "image",
+      "size": 5698,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/393/393011-64.png?modified=1383830515"
+    },
+    {
+      "type": "image",
+      "size": 5541,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/401/401156-64.png?modified=1379425918"
+    },
+    {
+      "type": "image",
+      "size": 3809,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/372/372477-64.png?modified=1384857594"
+    },
+    {
+      "type": "image",
+      "size": 3795,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/390/390061-64.png?modified=1368132907"
+    },
+    {
+      "type": "js",
+      "size": 3766,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/js/l10n.js?b=1389902433700"
+    },
+    {
+      "type": "cssimage",
+      "size": 3725,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/img/pretty/stars_small.svg?1389902428251"
+    },
+    {
+      "type": "image",
+      "size": 3553,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/371/371377-64.png?modified=1378826727"
+    },
+    {
+      "type": "image",
+      "size": 3283,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/367/367847-64.png?modified=1380030028"
+    },
+    {
+      "type": "image",
+      "size": 3040,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/379/379975-64.png?modified=1383059603"
+    },
+    {
+      "type": "image",
+      "size": 2510,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/366/366345-64.png?modified=1384482193"
+    },
+    {
+      "type": "image",
+      "size": 2143,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/398/398166-64.png?modified=1368132912"
+    },
+    {
+      "type": "cssimage",
+      "size": 1680,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/img/pretty/settings_gear.svg?1389902426592"
+    },
+    {
+      "type": "cssimage",
+      "size": 1250,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/img/grain.png?1389902427899"
+    },
+    {
+      "type": "cssimage",
+      "size": 1152,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/img/pretty/close.svg?1389902426592"
+    },
+    {
+      "type": "cssimage",
+      "size": 956,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/img/pretty/back_arrow.svg?1389902426592"
+    },
+    {
+      "type": "cssimage",
+      "size": 672,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/img/pretty/search.svg?1389902426592"
+    },
+    {
+      "type": "image",
+      "size": 208,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/436/436517-64.png?modified=1366827544"
+    },
+    {
+      "type": "image",
+      "size": 208,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/436/436515-64.png?modified=1389051344"
+    },
+    {
+      "type": "image",
+      "size": 208,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/436/436513-64.png?modified=1389051301"
+    },
+    {
+      "type": "image",
+      "size": 208,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/436/436505-64.png?modified=1389051280"
+    },
+    {
+      "type": "image",
+      "size": 208,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/436/436509-64.png?modified=1389051218"
+    },
+    {
+      "type": "image",
+      "size": 208,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/436/436503-64.png?modified=1389051165"
+    },
+    {
+      "type": "image",
+      "size": 208,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/436/436507-64.png?modified=1389051193"
+    },
+    {
+      "type": "image",
+      "size": 162,
+      "url": "https://marketplace-cdn.allizom.org/img/uploads/addon_icons/436/436511-64.png?modified=1389051239"
+    },
+    {
+      "type": "favicon",
+      "size": 0,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/img/logos/32.png?b=1389902433700"
+    },
+    {
+      "type": "favicon",
+      "size": 0,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/img/logos/64.png?b=1389902433700"
+    },
+    {
+      "type": "favicon",
+      "size": 0,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/img/logos/128.png?b=1389902433700"
+    },
+    {
+      "type": "cssimage",
+      "size": 0,
+      "url": "https://marketplace-cdn.allizom.org/media/fireplace/img/icons/regions/us.png?1389902426433"
+    },
+    {
+      "type": "doc",
+      "size": 0,
+      "url": "https://marketplace.allizom.org/"
+    }
+  ]
+}

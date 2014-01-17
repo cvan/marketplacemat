@@ -1,0 +1,17 @@
+{
+  "name": "marketplace-sizes",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.10.x",
+    "npm": ">=1.1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cvan/marketplace-sizes.git"
+  },
+  "devDependencies": {
+    "grunt-cli": "latest",
+    "grunt": "~0.4.2",
+    "grunt-gh-pages": "~0.9.0"
+  }
+}
